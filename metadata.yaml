@@ -1,5 +1,8 @@
 _repo: Weird-Tales-Volume-1-Number-1-March-1923-The-unique-magazine_68957
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68957-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '55025'
     url: http://www.gutenberg.org/2009/agents/55025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68957#Weird-Tales-Volume-1-Number-1-March-1923-The-unique-magazine
 gutenberg_issued: '2022-09-11'
 identifiers:
   gutenberg: '68957'
